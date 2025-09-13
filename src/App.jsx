@@ -6,7 +6,7 @@ function App() {
       <div className="video-chat-wrapper">
         <div className="video">
           <iframe
-            src="https://player.twitch.tv/?channel=quintero0&parent=twitch-rotate-video.vercel.app"
+            src="https://player.twitch.tv/?channel=quintero0&parent=twitch-rotate-video-otjf.vercel.app"
             height="100%"
             width="100%"
             allowFullScreen
@@ -17,7 +17,7 @@ function App() {
 
         <div className="chat">
           <iframe
-            src="https://www.twitch.tv/embed/quintero0/chat?parent=twitch-rotate-video.vercel.app"
+            src="https://player.twitch.tv/?channel=quintero0&parent=twitch-rotate-video-otjf.vercel.app"
             height="100%"
             width="100%"
             frameBorder="0"
